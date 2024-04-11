@@ -1,0 +1,6 @@
+Write your name and system(s) specs here.
+
+
+Tanner McGee:
+Windows 11, AMD Ryzen 7 5800H @ 3201 Mhz, 8 Cores
+Windows 10, Intel i7 4790k @ 4.0 Ghz, 4 Cores
