@@ -1,7 +1,7 @@
 # Project README.md
 Evaluating bubble sort performance across different systems in two different languages: python and C++.
 
-We plan to present on April 23rd.
+We are presenting as the first group on April 22rd.
 
 
 ## Our Systems
@@ -10,7 +10,7 @@ We plan to present on April 23rd.
 - Quetzin's Windows, Intel i7, 32GB
 - Quetzin's Windows, Intel i9, 32GB
 - Tanner's Windows, Intel i7 4790k with 4 cores @ 4.0 Ghz, 16GB
-- Tanner's Windows, AMD Ryzen 7 5800H with 8 cores @ 3201 Mhz, 16 GB
+- Tanner's Windows, AMD Ryzen 7 5800H with 8 cores @ 3201 Mhz, 16GB
 
 
 ## How to Run These Programs
@@ -25,4 +25,4 @@ We plan to present on April 23rd.
 
 
 ## Random Notes
-- I was able to give Suman and Youssef collaborator permissions on the repo since they have their TXST email linked with GitHub. @Farrah and @Quetzin, what email do y'all use for GitHub, so I can add yall too? - Tanner
+- I was able to give Suman, Youssef, and Farrah collaborator permissions on the repo since they have their TXST email linked with GitHub. @Quetzin, what email do you use for GitHub, so we can add you too? - Tanner
