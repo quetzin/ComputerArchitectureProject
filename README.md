@@ -5,12 +5,12 @@ We are presenting as the first group on April 22rd.
 
 
 ## Our Systems
-- Quetzin's Mac, M1, 16GB
-- Quetzin's Mac, Intel i7, 16GB
-- Quetzin's Windows, Intel i7, 32GB
-- Quetzin's Windows, Intel i9, 32GB
-- Tanner's Windows, Intel i7 4790k with 4 cores @ 4.0 Ghz, 16GB
-- Tanner's Windows, AMD Ryzen 7 5800H with 8 cores @ 3201 Mhz, 16GB
+- Quetzin's Mac, Apple M1 Max with 10 cores @ 2.06 Ghz, 16GB
+- Quetzin's Mac, Intel i7 9750H with with 6 cores @ 2.6 GHz, 16GB
+- Quetzin's Windows, Intel i7 11700K with 8 cores @ 3.6 GHz, 32GB
+- Quetzin's Windows, Intel i9 10850K with 10 cores @ 3.6 GHz, 32GB
+- Tanner's Windows, Intel i7 4790k with 4 cores @ 4.0 GHz, 16GB
+- Tanner's Windows, AMD Ryzen 7 5800H with 8 cores @ 3201 MHz, 16GB
 
 
 ## How to Run These Programs
