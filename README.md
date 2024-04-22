@@ -11,7 +11,8 @@ We are presenting as the first group on April 22rd.
 - Quetzin's Windows, Intel i9 10850K with 10 cores @ 3.6 GHz, 32GB
 - Tanner's Windows, Intel i7 4790k with 4 cores @ 4.0 GHz, 16GB
 - Tanner's Windows, AMD Ryzen 7 5800H with 8 cores @ 3201 MHz, 16GB
-
+- Suman's Windows, Intel i7-9750H with 6 cores @ 2.60 GHz, 16GB
+- (eros linux server, zeus linux server) AMD EPYC 7513 32-Core Processor, Architecture (x86_64)
 
 ## How to Run These Programs
 
