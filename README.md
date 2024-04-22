@@ -16,13 +16,9 @@ We are presenting as the first group on April 22rd.
 ## How to Run These Programs
 
 ### C++
-> `g++ bubbleSort.cpp -o output`
+> `g++ insertionSort.cpp -o output`
 > `./output`
 - I think these gcc commands are only for compiling on linux (TXST's zeus/eros servers). We really should compile and run them on our own computers for performance evaluation. - Tanner
 
 ### Python
 > `python bubbleSort.py`
-
-
-## Random Notes
-- I was able to give Suman, Youssef, and Farrah collaborator permissions on the repo since they have their TXST email linked with GitHub. @Quetzin, what email do you use for GitHub, so we can add you too? - Tanner
