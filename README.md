@@ -24,7 +24,6 @@ Hey guys I want to make a CSV out of the results.txt and do a quick data minding
 ### C++
 > `g++ insertionSort.cpp -o output`
 > `./output`
-- I think these gcc commands are only for compiling on linux (TXST's zeus/eros servers). We really should compile and run them on our own computers for performance evaluation. - Tanner
 
 ### Python
 > `python insertionSort.py`
