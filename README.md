@@ -11,7 +11,7 @@ We are presenting as the first group on April 22rd.
 - Quetzin's Windows ?, Intel i9 10850K with 10 cores @ 3.6 GHz, 32 GB
 - Tanner's Windows 10, Intel i7 4790k with 4 cores @ 4.0 GHz, 16 GB
 - Tanner's Windows 11, AMD Ryzen 7 5800H with 8 cores @ 3.201 GHz, 16 GB
-- Suman's Windows ?, Intel i7 9750H with 6 cores @ 2.60 GHz, 16 GB
+- Suman's Windows 11, Intel i7 9750H with 6 cores @ 2.60 GHz, 16 GB
 - Youssef's Windows ?, Intel i7 11800H with 8 cores @ 2.30 GHz, 2.304 Ghz, 32 GB, (16 Logical Processors)
 - TXST's Linux ?, AMD EPYC 7513 with 32 cores @ 2.6 GHz, ? GB, (x86_64 Architecture)
 
