@@ -26,7 +26,7 @@ output_filename = 'sorted_numbers.txt'
 start_time = time.time()
 
 arr = read_array_from_file(input_filename)
-bubble_sort(arr)
+insertion_sort(arr)
 write_array_to_file(arr, output_filename)
 
 end_time = time.time()
