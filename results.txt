@@ -1,4 +1,6 @@
-Quetzin's Mac, Apple M1 Max with 10 cores @ 2.06 Ghz, 16GB; 84.770 milliseconds for Python and 35 milliseconds for C++
-Quetzin's Mac, Intel i7 9750H with with 6 cores @ 2.6 GHz, 16GB; 92.311 milliseconds for Python and 29 milliseconds for C++
-Quetzin's Windows, Intel i7 11700K with 8 cores @ 3.6 GHz, 32GB; 69.477 milliseconds for Python and 10 milliseconds for C++
-Quetzin's Windows, Intel i9 10850K with 10 cores @ 3.6 GHz, 32GB; 70.729 milliseconds for Python and 11 milliseconds for C++
+Quetzin's Mac ?, Apple M1 Max with 10 cores @ 2.06 Ghz, 16 GB; 84.770 milliseconds for Python and 35 milliseconds for C++
+Quetzin's Mac ?, Intel i7 9750H with with 6 cores @ 2.6 GHz, 16 GB; 92.311 milliseconds for Python and 29 milliseconds for C++
+Quetzin's Windows ?, Intel i7 11700K with 8 cores @ 3.6 GHz, 32 GB; 69.477 milliseconds for Python and 10 milliseconds for C++
+Quetzin's Windows ?, Intel i9 10850K with 10 cores @ 3.6 GHz, 32 GB; 70.729 milliseconds for Python and 11 milliseconds for C++
+Tanner's Windows 10, Intel i7 4790k with 4 cores @ 4.0 GHz, 16 GB; 89.846 milliseconds for Python and 25 milliseconds for C++
+Tanner's Windows 11, AMD Ryzen 7 5800H with 8 cores @ 3201 MHz, 16 GB; 172.707 milliseconds for Python and 30 milliseconds for C++
